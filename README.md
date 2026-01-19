@@ -1,4 +1,4 @@
-# xv6 Channel Synchronization
+# xv6-Channel-Synchronization
 
 This repository extends xv6 with a simple **synchronous channel** mechanism for
 inter-process communication. Channels are single-slot buffers that block
